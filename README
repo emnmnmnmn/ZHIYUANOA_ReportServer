@@ -1,0 +1,12 @@
+## 致远OA 帆软组件 ReportServer目录遍历漏洞 POC
+## title="致远A8-V5协同管理软件 V6.1sp1"
+
+```
+python3 ZHIYUANOA_ReportServer.py -h
+
+python3 ZHIYUANOA_ReportServer.py -u http://xxx.xx.xx
+
+python3 ZHIYUANOA_ReportServer.py -f xxx.txt
+
+```
+## 结果存储在result.txt
